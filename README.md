@@ -6,3 +6,5 @@ Project components:
 1. Traccar Client App
 
 ## The Actual Project
+Project components:
+1. Placeholder.
